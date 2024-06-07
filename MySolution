@@ -1,0 +1,13 @@
+# SE-Assignment-2
+
+Define Software Engineering:
+is the process of designing, developing, testing, and maintaining software.
+
+What is software engineering, and how does it differ from traditional programming?
+Software Engineering is Process-driven, following a defined lifecycle including planning, requirements gathering, design, development, testing, deployment, maintenance, and possibly disposal while Traditional ProgrammingisTask-oriented, focusing on coding for specific tasks. Limited in scope, with less emphasis on planning, design, testing, and maintenance and lastly Often an individual effort, lacking in teamwork and collaboration.
+
+Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase. Agile vs. Waterfall Models
+Agile Project Management is a repetitive project management approach for building software and applications. This method is quick and easy for both small and large projects and includes customer satisfaction in its priorities. This management approach is mostly used in cases when client requirements change frequently
+while Waterfall Methodology is a sequential project management approach that includes some phases each covering a separate part of product development. As it is a sequential approach, so a new phase cannot be started before completing the previous phase, and due to this it is really hard to implement any changes after the phase has been completed so it is not suitable for complex projects.
+
+Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred? Requirements Engineering
